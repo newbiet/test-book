@@ -16,7 +16,12 @@
 4. 输入物理机的SSH端口，默认为22，如果此物理机没有配置SSH端口，则可按照默认配置的22端口使用。
 
 5. 输入物理机的用户名，默认为root用户，也可输入普通用户。如果此物理机没有添加普通用户，则可按照默认的root用户使用。普通用户要求拥有sudo权限。建议在创建普通用户时，使用adduser命令。创建普通用户及修改用户sudo权限可参考以下样例：
-
+```
+[root@localhost ~]# adduser mevoco
+#创建一个名为mevoco的普通用户
+[root@localhost ~]#echo “mevoco    ALL=(ALL)    NOPASSWD: ALL”>>/etc/sudoers
+#授权mevoco用户拥有sudo权限
+```
 6. 输入物理机对应的用户密码，输入密码时请注意大小写。
 
 7. 点击创建按钮，Mevoco系统会调用后台作业来配置Host。配置过程可能持续几分钟。若安装出错，则会提示相应的错误信息。
