@@ -33,6 +33,7 @@
     * [6.1 选择语言](Main/language.md)
     * [6.2 基础设置](Main/base-setting.md)
     * [6.3 修改密码](Main/change-password.md)
+    * [6.4 操作助手](Main/help-box.md)
 * [7 云主机管理](VM/README.md)
     * [7.1 新建云主机](VM/new-vm.md)
     * [7.2 单个云主机操作](VM/single-vm.md)
