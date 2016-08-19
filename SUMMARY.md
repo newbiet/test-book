@@ -47,8 +47,9 @@
     * [8.1 单物理机操作](Host/single-host.md)
     * [8.2 批量物理机操作](Host/batach-host.md)
     * [8.3 物理机监控](Host/host-monitor.md)
-* [8 集群管理](CLuster/README.md)  
-    * [8.1 单物理机操作](Host/single-host.md)  
+* [8 集群管理](CLuster/README.md)
+    * [8.1 单物理机操作](Cluster/single-cluster.md)
+    * 单集群操作
 * [9 镜像管理](Image/README.md)
     * [9.1 单镜像操作](Image/single-image.md)
     * [9.2 批量镜像操作](Image/batach-image.md)
