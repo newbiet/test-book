@@ -25,7 +25,8 @@
 ######图5-5-3  选择云主机镜像平台界面
 
 5.输入相应的URL，格式为 http://或file:///。
-> 例如：http://192.168.0.10/test.qcow2 或 file:///tmp/test-centos7.qcow2文件
+> 例如：http://192.168.0.10/test.qcow2 或
+> file:///tmp/test-centos7.qcow2 文件
    
 * 注意：file:///是三个”/”。当使用file方式上传镜像时，对应的路径应为镜像服务器的绝对路径，例如上例的file:///tmp/test-centos7.qcow2。在镜像服务器的/tmp目录下应存放有test-centos7.qcow2文件。
 
