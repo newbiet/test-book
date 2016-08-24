@@ -106,7 +106,7 @@
     * [21.4 zstack.properties核心配置文件](other-setting/zstack.properties.md)
     * [21.5 更新Mevoco相关服务器IP地址](other-setting/change-ip.md)
     * [21.6 Mevoco计算节点密码变更](other-setting/change-host-password.md)
-    * [20.7 Mevoco管理节点更改物理环境](other-setting/change-host-env.md)
+    * [21.7 Mevoco管理节点更改物理环境](other-setting/change-host-env.md)
     * [21.8 Mevoco数据库备份与恢复  ](other-setting/mysql-backup-recover.md)
     * [21.9 CentOS7网卡设备编号变更](other-setting/change-network-device.md)
     * [21.10 本地存储空间扩容](other-setting/enlarge-local-storage.md)
