@@ -174,9 +174,11 @@
 
 8. 支持为账户分配EIP的配额([18.1](/User-MN/account.md))
 
-9. 支持UI界面查看DHCP Server IP
+9. 
 
-10. 优化Wizard用户体验
+10. 支持UI界面查看DHCP Server IP
 
-11. 优化部分操作顺序
+11. 优化Wizard用户体验
+
+12. 优化部分操作顺序
 
