@@ -1,4 +1,4 @@
-# 20.3 配置独立的RabbitMQ服务器
+# 21.3 配置独立的RabbitMQ服务器
 
 同样可以使用 zstack-ctl 来完成RabbitMQ服务的安装：
 

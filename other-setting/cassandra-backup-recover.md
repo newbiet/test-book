@@ -1,4 +1,4 @@
-# 20.13 Mevoco Cassandra数据库备份与恢复
+# 21.13 Mevoco Cassandra数据库备份与恢复
 
 Mevoco已支持自动备份Cassandra，可以通过crontab-l 查看相关的定时任务
 
