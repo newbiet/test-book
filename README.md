@@ -162,19 +162,19 @@
 
 2. 新增操作助手（[6.4](/Main/help-box.md)）
 
-3. 新增定时任务功能
+3. 新增定时任务功能([7.2](/VM/single-vm.md))
 
-4. 新增云主机克隆功能
+4. 新增云主机克隆功能([7.2](/VM/single-vm.md))
 
-5. 新增设置云主机控制台密码功能
+5. 新增设置云主机控制台密码功能([7.2](/VM/single-vm.md))
 
-6. 新增镜像仓库镜像导出功能
+6. 新增镜像仓库镜像导出功能([10.1](/Image/single-image.md))
 
-7. 已创建虚拟机支持添加/删除SSH key
+7. 已创建云主机支持添加/删除SSH key([7.2](/VM/single-vm.md))
 
-8. 支持UI界面查看DHCP Server IP
+8. 支持为账户分配EIP的配额([18.1](/User-MN/account.md))
 
-9. 支持为账户分配EIP的配额
+9. 支持UI界面查看DHCP Server IP
 
 10. 优化Wizard用户体验
 
