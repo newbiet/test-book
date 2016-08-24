@@ -172,7 +172,7 @@
 
 7. 已创建虚拟机支持添加/删除SSH key
 
-8. 支持UI界面查看DHCP server IP
+8. 支持UI界面查看DHCP Server IP
 
 9. 支持为账户分配EIP的配额
 
