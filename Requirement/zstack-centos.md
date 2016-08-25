@@ -20,7 +20,7 @@
 
 
 1.下载ZStack定制版CentOS7.2 ISO
-文件名称：ZStack-Community-x86_64-DVD-1.4.0.iso (1.7G) 
+文件名称：ZStack-Community-x86_64-DVD-1.6.0.iso (1.7G) 
 
 MD5校验码：7bb842a260de4dd7eab1cfe10cbf9558 
 
