@@ -14,9 +14,9 @@
 
 7. 所有计算节点需要安装相同的操作系统，网卡的设备名称需统一，例如统一指定为eth0。CentOS 7.2系统安装后默认使用一致性网络接口配置，网卡设备名称可能并非ethx格式，建议参考19.9统一设置为ethx格式。
 
-8. Mevoco系统在Mevoco 1.4之前使用Java 1.7版本，从Mevoco 1.4以后开始使用Java 1.8版本。
+8. Mevoco系统在Mevoco 1.4之前使用Java 1.7版本，从Mevoco 1.6以后开始使用Java 1.8版本。
 
-* 如果安装Mevoco 1.4前，用户没有安装Java， Mevoco会默认安装1.8版本。
+* 安装最新的Mevoco前，用户没有安装Java， Mevoco会默认安装1.8版本。
 
 * 如果用户已安装其他版本，可单独安装Java 1.8版本，并通过update-alternatives --config java命令选择Java版本为1.8，配置后可通过java –version命令查看Java版本。若设置成其他版本，在后续部署与使用过程中可能导致异常。
 
