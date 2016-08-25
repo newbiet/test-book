@@ -26,7 +26,7 @@ MD5校验码：7bb842a260de4dd7eab1cfe10cbf9558
 
 下载地址1：
 
-http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.4.0.iso
+http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.6.0.iso
 
 下载地址2：
 
