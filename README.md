@@ -174,7 +174,7 @@
 
 8. 支持为账户分配EIP的配额([18.1](/User-MN/account.md))
 
-9. 
+9. ceph存储支持指定池名
 
 10. 支持UI界面查看DHCP Server IP
 
