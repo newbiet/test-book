@@ -9,7 +9,7 @@
 
 3. 如果用户的网络访问CentOS官方Yum源的速度很快，可不带任何参数，直接执行“bash mevoco-installer.bin”进行安装。
 
-4. 其他注意事项请参考3.1离线安装Mevoco。
+4. 其他注意事项请参考[3.1](/install/offline-install.md)离线安装Mevoco。
 
-![png](../images/3-1-3.png "图3-2-1 Mevoco 在线安装界面")
+![png](../images/3-2-1.png "图3-2-1 Mevoco 在线安装界面")
 ###### 图3-2-1 Mevoco 在线安装界面
