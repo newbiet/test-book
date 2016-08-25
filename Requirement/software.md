@@ -20,7 +20,7 @@
 
 * 如果用户已安装其他版本，可单独安装Java 1.8版本，并通过update-alternatives --config java命令选择Java版本为1.8，配置后可通过java –version命令查看Java版本。若设置成其他版本，在后续部署与使用过程中可能导致异常。
 
-* 如果用户从低版本升级到Mevoco1.4，则Mevoco会默认自动升级Java到Java 1.8版本。
+* 如果用户从低版本升级到Mevoco最新版本，则Mevoco会默认自动升级Java到Java 1.8版本。
 
 9. 浏览器：推荐使用最新版Chrome或Firefox浏览器访问Mevoco图形界面。建议浏览器的窗口宽度应该大于1280，宽度过小可能会影响使用效果。
 
