@@ -8,7 +8,7 @@
 
 4. 如果主存储不是采用Ceph存储或FusionStor存储，那么镜像服务器可以选择镜像仓库或者SFTP。考虑到镜像存储的可扩展性，建议镜像服务器(备份存储服务器)的硬盘分区采用LVM分区，ext4文件系统，3T以上容量。
 
-5. 如果在安装时，没有挂载大容量分区，请参考[19.10](/other-setting/enlarge-local-storage.md)系统存储扩容的方法，对镜像存储扩容。
+5. 如果在安装时，没有挂载大容量分区，请参考[21.10](/other-setting/enlarge-local-storage.md)系统存储扩容的方法，对镜像存储扩容。
 
 6. 关闭selinux，配置/etc/sysconfig/selinux 并设置 SELINUX=disabled。本操作需要重启操作系统，如果用户没有设置此项，Mevoco安装时会主动配置。
 
