@@ -12,7 +12,7 @@
 
 4. 默认设置了root密码为password，支持安装OS后修改密码；
 
-5. 网卡名称默认为ethx格式，例如eth0或eth1；
+5. 1.6版本取消了eth设置。采用系统默认的网卡命名规则
 
 6. 默认选项：时区--亚洲东八区，语言--English，键盘--English(United States)。
 
