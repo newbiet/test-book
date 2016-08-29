@@ -14,7 +14,7 @@ FusionStor采用了FusionStor集群提供的分布式块存储作为镜像存储
 
 如果添加Ceph主存储未指定存储池，则系统会自动添加同一个Ceph存储为镜像存储。
 
-如果添加了Fusion主存储,则系统会自动添加同一个Fusionstor存储为镜像存储
+如果添加了Fusion主存储,则系统会自动添加同一个Fusionstor存储为镜像存储。
 
 当主存储选为地存储、NFS或Share Mount Point类型时，镜像服务器的默认类型为镜像仓库。
 
