@@ -67,6 +67,7 @@ FusionStor采用了FusionStor集群提供的分布式块存储作为镜像存储
 ![png](../images/5-3-3.png "图5-3-3 添加Ceph类型镜像服务器界面")
 ###### 图5-3-3 添加Ceph类型镜像服务器界面
 
+一般情况下Fusionstor类型的镜像服务器会自动添加，无须手动配置。其添加会随着Fusionstor主存储一起添加。
 
 添加FusionStor类型镜像服务器具体步骤，与添加Ceph的步骤类似，如图5-3-3所示：
 ![png](../images/5-3-4.png "图5-3-4 添加FusionStor类型镜像服务器界面")
