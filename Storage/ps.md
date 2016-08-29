@@ -29,7 +29,27 @@
 ###### 图11-1-2 本地主存储管理界面
 
 2.NFS存储：NFS存储类型显示为NFS，URL显示的为NFS服务器的共享目录。如图11-1-3所示。
-如果用户以NFS作为主存储，需要更换存储设备时，更改NFS的url
+
+如果用户以NFS作为主存储，，需要将旧存储上运行的VM移至新的存储上，此时在UI界面更改NFS的URL就十分便利了。具体操作如下：
+* 关闭云主机；
+
+
+* 在第一个计算节点，挂载新的NFS存储到/mnt/new-nfs/目录；
+
+```
+mount -t nfs 172.20.11.28:/share/new-ps /mnt/new-nfs/
+
+```
+* 通过rsync命令同步数据：
+
+```
+rsync -avu /opt/zstack/nfsprimarystorage/prim-
+45d54052761e4dacaa336415d9bfda8b/* /mnt/new-nfs/
+数据同步完成后，执行卸载新的NFS：umount /mnt/new-nfs
+```
+
+* 在UI上，修改已有NFS的路径，修改为新NFS路径：172.20.11.28:/share/new-ps
+
 
 ![png](../images/11-1-3.png "图11-1-3 NFS主存储管理界面")
 ###### 图11-1-3 NFS主存储管理界面
