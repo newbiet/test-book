@@ -25,5 +25,5 @@ CloudBus.rabbitmqPassword= ZSTACK_USER_PASSWORD
 zstack-ctl save_config
 ```
 
-当用户安装有多个管理节点的时候，需要到每个管理节点上配置正确的RabbitMQ访问方式，配置方式详见19.4 zstack.properties文件。
+当用户安装有多个管理节点的时候，需要到每个管理节点上配置正确的RabbitMQ访问方式，配置方式详见21.4 zstack.properties文件。
 
