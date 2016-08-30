@@ -4,9 +4,8 @@
         "autocover"
     ]
 
-
-  "pluginsConfig": {
-      "autocover": {
+ 
+    "autocover": {
           "title": "Mevoco_Product_Manmual",
           "author": "mevoco",
           "font": {
@@ -21,6 +20,5 @@
           "background": {
               "color": "#09F"
           }
-      }
   }
 }
