@@ -6,12 +6,12 @@
 
 `cd /opt/`
 
-`wget http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.4.0.iso`
+`wget http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-160827.iso`
 
 `wget http://www.mevoco.com/downloads/scripts/zstack-repo-upgrade.sh`
 
 `bash /opt/zstack-repo-upgrade.sh`
 
-`http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.4.0.iso可换成最新版本的ZStack定制版ISO`
+`http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-160827.iso`可换成最新版本的ZStack定制版ISO
 
 
