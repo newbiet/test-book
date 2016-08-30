@@ -6,9 +6,9 @@ SSH公钥目前使用cloud-init注入方式实现，采用的是Amazon AWS的标
 
 用户可以直接在相关CentOS、Ubuntu官网直接下载相应的镜像直接测试使用，相应的下载连接如下：
 
-CentOS 7.2 : http://cloud.centos.org/centos/7/images/
+CentOS 7.2 : [http://cloud.centos.org/centos/7/images/](http://cloud.centos.org/centos/7/images/)
 
-Ubuntu 14.04 http://uec-images.ubuntu.com/trusty/current/
+Ubuntu 14.04 [http://uec-images.ubuntu.com/trusty/current/](http://uec-images.ubuntu.com/trusty/current/)
 
 使用该功能云主机模板需要预装cloud-init。
 
