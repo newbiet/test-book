@@ -6,7 +6,7 @@
 
 注意：Windows ISO可以通过
 
-https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-server-2012-r2
+[https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-server-2012-r2](https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-server-2012-r2)
 
 链接下载官网试用版Windows Server 2012。
 
@@ -30,7 +30,7 @@ https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-server-2012-r2
 
 5.Windows镜像默认使用模拟的I/O设备，模拟IO效率比较慢。建议安装额外的Virtio驱动，以提高Windows云主机的磁盘和网络IO性能。Virtio驱动的安装方法如下：
 
-a) 将Virtio驱动安装光盘以ISO格式添加到镜像服务器中，如图7-4-5所示（与添加Linux安装光盘类似）下载路径为：https://fedorapeople.org/groups/virt/Virtio-win/direct-downloads/stable-Virtio/Virtio-win.iso
+a) 将Virtio驱动安装光盘以ISO格式添加到镜像服务器中，如图7-4-5所示（与添加Linux安装光盘类似）下载路径为：[https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso)
 
 ![png](../images/7-4-5.png "图7-4-5  添加Windows Virtio ISO界面")
 ###### 图7-4-5  添加Windows Virtio ISO界面
