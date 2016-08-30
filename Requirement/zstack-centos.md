@@ -26,11 +26,11 @@ MD5校验码：7bb842a260de4dd7eab1cfe10cbf9558
 
 下载地址1：
 
-http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.6.0.iso
+[http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.6.0.iso](http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-1.6.0.iso)
 
 下载地址2：
 
-http://pan.baidu.com/s/1boXRJxP
+[http://pan.baidu.com/s/1boXRJxP](http://pan.baidu.com/s/1boXRJxP)
 
 2.使用UltraISO（可点击此链接下载试用版），将此ISO刻录到U盘，打开UltraISO后，点击“文件”按钮，打开此ISO，如图2-4-1所示。
 
