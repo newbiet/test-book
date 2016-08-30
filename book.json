@@ -3,13 +3,8 @@
         "search-jieba",
         "autocover"
     ]
-}
 
-{
-  "output": null,
-  "generator": "site",
-  "title": "Mevoco_Product_Manmual",
-  "plugins": ["autocover"],
+
   "pluginsConfig": {
       "autocover": {
           "title": "Mevoco_Product_Manmual",
