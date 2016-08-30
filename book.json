@@ -9,8 +9,8 @@
     ],
   "pluginsConfig": {
       "autocover": {
-          "title": "Cowman's Gitbook",
-          "author": "Cowman",
+          "title": "Mevoco_Manual",
+          "author": "mevoco",
           "font": {
               "size": null,
               "family": "Impact",
