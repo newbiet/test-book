@@ -2,7 +2,7 @@
 {
   "output": null,
   "generator": "site",
-  "title": "Cowman's Gitbook",
+  "title": "mevoco-manual",
   "plugins": [
         "search-jieba",
         "autocover"
@@ -13,15 +13,15 @@
           "author": "mevoco",
           "font": {
               "size": null,
-              "family": "Impact",
-              "color": "#FFF"
+              "family": "Calibri",
+              "color": "#09F"
           },
           "size": {
               "w": 1800,
               "h": 2360
           },
           "background": {
-              "color": "#09F"
+              "color": "#FFF"
           }
       }
   }
