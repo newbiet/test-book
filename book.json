@@ -5,7 +5,7 @@
   "title": "mevoco-manual",
   "plugins": [
         "search-jieba",
-        "autocover"
+        "-autocover"
     ],
   "pluginsConfig": {
       "autocover": {
