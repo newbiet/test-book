@@ -11,17 +11,17 @@
 数据库自动备份的目录为：/var/lib/zstack/mysql-backup
 ```
 
-2.升级将会默认保留配置，请指定参数-u，例如，执行`bash mevoco-installer.bin -u`
+2.升级将会默认保留配置，请指定参数-u，例如，执行`bash mevoco-installer.bin -u。`
 
 3.如果升级前的系统安装采用了ZStack定制版低版本的ISO（例如1.3版本），在升级Mevoco前，需要参考19.12升级ZStack定制版ISO的Yum源到最新版本。
 
-4.如果升级前的系统安装采用了ZStack定制版ISO，那么升级时请指定参数‘-o’
+4.如果升级前的系统安装采用了ZStack定制版ISO，那么升级时请指定参数‘-o’。
 
-5.如果升级时希望使用aliyun官方yum源，请指定参数：‘-R aliyun’
+5.如果升级时希望使用aliyun官方yum源，请指定参数：‘-R aliyun’。
 
 6.如果升级前Mevoco是运行状态，升级完成后，升级程序也将会启动Mevoco，如果升级前服务是停止状态，需手动启动Mevoco服务。
 
-7.如果从ZStack升级到Mevoco，在升级时，请指定参数：‘-u’
+7.如果从ZStack升级到Mevoco，在升级时，请指定参数：‘-u’。
 
 注意：升级过程中遇到的异常，请参考18.1.2升级异常处理。
 
