@@ -4,6 +4,8 @@
 
 用户需提前准备好已安装了ZStack定制版Centos 7.2的物理机器，将此机器作为待安装Mevoco的管理节点。
 
+ZStack定制版Centos 7.2的root密码为：password
+
 离线安装步骤如下：
 
 1. 下载Mevoco离线安装包到管理节点的任意目录（假如安装包名称为mevoco-installer.bin）。
