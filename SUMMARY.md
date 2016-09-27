@@ -113,7 +113,6 @@
     * [21.10 本地存储空间扩容](other-setting/enlarge-local-storage.md)
     * [21.11 日志Log收集](other-setting/log-collection.md)
     * [21.12 升级ZStack定制版ISO的yum源](other-setting/upgrade-zstack-iso.md)
-    * [21.13 Mevoco Cassandra数据库备份与恢复](other-setting/cassandra-backup-recover.md)
 * [22 授权](authorization/README.md)
 * [23 技术支持](support/README.md)
 
