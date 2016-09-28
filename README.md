@@ -190,13 +190,13 @@
 
 2016\/09\/30 主要更新：
 
-1. 新增LDAP登录功能
+1. 新增LDAP登录功能([6.5](/Main/65.md))
 
-2. 支持imagestore删除已导出的镜像
+2. 支持imagestore删除已导出的镜像([10.1](/Image/single-image.md))
 
-3. 强制停止云主机
+3. 强制停止云主机([7.2](/VM/single-vm.md))
 
-4. 支持创建云主机时设置console密码
+4. 支持创建云主机时设置console密码([7.1](/VM/new-vm.md))
 
 5. 指定静态IP时提示可用IP资源
 
