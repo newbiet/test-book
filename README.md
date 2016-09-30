@@ -192,7 +192,7 @@
 
 1. 新增LDAP组件\([6.5](/Main/65.md)\)
 
-2. 支持imagestore删除已导出的镜像\([10.1](/Image/single-image.md)\)
+2. 支持删除已导出的镜像\([10.1](/Image/single-image.md)\)
 
 3. 新增关闭电源\([7.2](/VM/single-vm.md)\)
 
