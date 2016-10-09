@@ -101,7 +101,7 @@
     * [20.4 创建云主机异常处理](exception/create-vm.md)
     * [20.5 主界面异常处理](exception/main-page.md)
 * [21 其他设置](other-setting/README.md)
-    * [21.1 安装第二个管理节点](other-setting/2nd-mn.md)
+    * [21.1 安装多个管理节点](other-setting/2nd-mn.md)
     * [21.2 配置独立的MySQL服务器](other-setting/single-mysql.md)
     * [21.3 配置独立的RabbitMQ服务器](other-setting/single-rabbitmq.md)
     * [21.4 zstack.properties核心配置文件](other-setting/zstack.properties.md)
