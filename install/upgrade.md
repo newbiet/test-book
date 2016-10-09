@@ -1,4 +1,4 @@
-# 3.4 升级Mevoco
+# 3.3 升级Mevoco
 
 使用ZStack 或者Mevoco 较低版本的用户可以直接升级到最新版本的Mevoco。
 
