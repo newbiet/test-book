@@ -1,28 +1,56 @@
-
 {
-  "output": null,
-  "generator": "site",
-  "title": "mevoco-manual",
-  "plugins": [
+    "author": "Mevoco User Manual>",
+    "description": "This is the Mevoco User Manual",
+    "extension": null,
+    "language": "zh-hans",
+    "generator": "site",
+    "plugins": [
+        "-fontsettings",
+        "-search",
+        "-sharing",
+        "-lunr",
         "search-jieba",
-        "-autocover"
+        "-edit-link",
+        "-github",
+        "-livereload",
+        "splitter",
+        "toggle-chapters"
     ],
-  "pluginsConfig": {
-      "autocover": {
-          "title": "Mevoco_Manual",
-          "author": "mevoco",
-          "font": {
-              "size": null,
-              "family": "Calibri",
-              "color": "#09F"
-          },
-          "size": {
-              "w": 1800,
-              "h": 2360
-          },
-          "background": {
-              "color": "#FFF"
-          }
-      }
-  }
+    "links": {
+        "sharing": {
+            "all": false,
+            "facebook": false,
+            "google": false,
+            "twitter": false,
+            "weibo": false
+        },
+        "sidebar": {
+            "Mevoco 官网": "http://www.mevoco.com"
+        }
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css"
+    }, 
+    "output": null,
+    "title": "Mevoco 用户手册",
+    "variables": {},
+    "keywords": "Mevoco用户手册",
+    "tail": {
+        "Mevoco": "www.mevoco.com",
+        "Power By ZStack": "www.zstack.org"
+    }
 }
