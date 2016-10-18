@@ -1,33 +1,26 @@
 {
     "author": "Mevoco User Manual>",
     "description": "This is the Mevoco User Manual",
-    "extension": null,
     "language": "zh-hans",
-    "generator": "site",
+    "title": "Mevoco User Manual",
     "plugins": [
         "-fontsettings",
-        "-search",
+        "search",
         "-sharing",
-        "-lunr",
-        "search-jieba",
+        "-search-pro",
         "-edit-link",
         "-github",
         "-livereload",
         "splitter",
         "toggle-chapters"
+
     ],
-    "links": {
-        "sharing": {
-            "all": false,
-            "facebook": false,
-            "google": false,
-            "twitter": false,
-            "weibo": false
-        },
-        "sidebar": {
+    "links":
+     {
+        "sidebar":{
             "Mevoco 官网": "http://www.mevoco.com"
         }
-    },
+        },
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
@@ -44,13 +37,10 @@
     "styles": {
         "website": "styles/website.css",
         "pdf": "styles/pdf.css"
-    }, 
-    "output": null,
-    "title": "Mevoco 用户手册",
-    "variables": {},
-    "keywords": "Mevoco用户手册",
-    "tail": {
-        "Mevoco": "www.mevoco.com",
-        "Power By ZStack": "www.zstack.org"
-    }
-}
+    },
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["中文","分词"]
+        }
+   
