@@ -43,5 +43,5 @@
             "cutWordLib": "nodejieba",
             "defineWord" : ["中文","分词"]
         }
-   
+   }  
 }
