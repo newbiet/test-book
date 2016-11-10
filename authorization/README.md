@@ -1,4 +1,4 @@
-# 20 授权
+# 23 授权
 
 Mevoco提供多种协议，用户可以根据需求免费使用或者购买Mevoco的授权。需要使用10台免费版协议、打算试用或购买授权的用户，请先进入Mevoco图形界面里的“关于”，点击按钮“复制本页到剪贴板”，然后把复制的信息连同用户需求一起，发送电子邮件到 [sales@mevoco.com](mailto:sales@mevoco.com)。用户也可以向 [sales@mevoco.com](mailto:sales@mevoco.com)咨询购买的相关问题。Mevoco的用户协议包括如下类型：
 
