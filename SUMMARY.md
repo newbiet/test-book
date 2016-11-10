@@ -53,8 +53,8 @@
 * 10.vCenter管理
     * [VMware云主机管理](vmware云主机管理.md)
 * [11 镜像管理](Image/README.md)
-* [10.1 单镜像操作](Image/single-image.md)
-* [10.2 批量镜像操作](Image/batach-image.md)
+* [11.1 单镜像操作](Image/single-image.md)
+* [11.2 批量镜像操作](Image/batach-image.md)
 * [12 存储管理](Storage/README.md)
     * [12.1 主存储](Storage/ps.md)
     * [12.2 镜像服务器](Storage/bs.md)
