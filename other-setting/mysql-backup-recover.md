@@ -1,4 +1,4 @@
-# 21.8 Mevoco数据库备份与恢复  
+# 22.8 Mevoco数据库备份与恢复  
 
 为保护数据安全，防止数据丢失，Mevoco现已主动定期进行数据库备份。默认使用crontab进行控制。
 
@@ -21,12 +21,12 @@
 
 > [root@localhost ~]# zstack-ctl dump_mysql --keep-amount 14
 
-`Backup mysql successful! You can check the file at /var/lib/zstack/mysql-backup/zstack-backup-db-2016-06-28_21-52-33.gz`                                                                                                                       
+`Backup mysql successful! You can check the file at /var/lib/zstack/mysql-backup/zstack-backup-db-2016-06-28_22-52-33.gz`                                                                                                                       
 > [root@localhost~]#zstack-ctl restore_mysql –f backup.gz --mysql-root-password root.password
 
 `Backup mysql before restore data ...
 Backup mysql successful! 
-You can check the file at /var/lib/zstack/mysql-backup/zstack-backup-db-2016-06-28_22-21-40.gz
+You can check the file at /var/lib/zstack/mysql-backup/zstack-backup-db-2016-06-28_22-22-40.gz
 the management node has been stopped
 Starting recover data ...
 Recover data successfully!`

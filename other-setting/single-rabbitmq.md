@@ -1,4 +1,4 @@
-# 21.3 配置独立的RabbitMQ服务器
+# 22.3 配置独立的RabbitMQ服务器
 
 同样可以使用 zstack-ctl 来完成RabbitMQ服务的安装：
 
@@ -25,5 +25,5 @@ CloudBus.rabbitmqPassword= ZSTACK_USER_PASSWORD
 zstack-ctl save_config
 ```
 
-当用户安装有多个管理节点的时候，需要到每个管理节点上配置正确的RabbitMQ访问方式，配置方式详见21.4 zstack.properties文件。
+当用户安装有多个管理节点的时候，需要到每个管理节点上配置正确的RabbitMQ访问方式，配置方式详见22.4 zstack.properties文件。
 
