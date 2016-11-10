@@ -50,6 +50,8 @@
     * [8.3 物理机监控](Host/host-monitor.md)
 * [9 集群管理](Cluster/README.md)
     * [9.1 集群操作](Cluster/single-cluster.md)
+* 10.vCenter管理
+    * VMware云主机管理
 * [10 镜像管理](Image/README.md)
     * [10.1 单镜像操作](Image/single-image.md)
     * [10.2 批量镜像操作](Image/batach-image.md)
