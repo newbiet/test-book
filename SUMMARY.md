@@ -1,7 +1,7 @@
 # Summary
 
-* [版权声明](CopyRight.md)
 * [引言](README.md)
+* [版权声明](CopyRight.md)
 * [1 概述](Introduction/README.md)
     * [1.1 系统简介](Introduction/introduct.md)
     * [1.2 主要功能](Introduction/function.md)
