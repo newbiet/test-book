@@ -52,8 +52,7 @@
     * [9.1 集群操作](Cluster/single-cluster.md)
 * [10 vCenter管理](10vcenter管理.md)
     * [10.1 vCenter操作](vmware云主机管理.md)
-    * [10.2 VMware 云主机操作](102-vmware-云主机操作.md)
-    * 10.3 VMware 物理机操作
+    * [10.2 ESX\(i\)云主机操作](102-vmware-云主机操作.md)
 * [11 镜像管理](Image/README.md)
     * [11.1 单镜像操作](Image/single-image.md)
     * [11.2 批量镜像操作](Image/batach-image.md)
