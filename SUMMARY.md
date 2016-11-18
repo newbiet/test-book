@@ -110,6 +110,7 @@
         * [20.3.7 添加三层网络配置异常处理](exception/l3.md)
     * [21.4 创建云主机异常处理](exception/create-vm.md)
     * [21.5 主界面异常处理](exception/main-page.md)
+    * 21.6 控制台代理异常处理
 * [22 其他设置](other-setting/README.md)
     * [22.1 安装多个管理节点](other-setting/2nd-mn.md)
     * [22.2 配置独立的MySQL服务器](other-setting/single-mysql.md)
