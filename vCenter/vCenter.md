@@ -2,13 +2,13 @@
 
 1.添加vCenter
 
-点击集群界面的添加VCenter按钮，进入添加vCenter界面。如图10-1-1所示。
+点击集群界面的添加VCenter按钮，进入添加vCenter界面。如图10-1-2所示。
 
-* 目前只允许用户添加一个vCenter
+* 目前只允许添加一个vCenter
 
 ![png](../images/10-1-1.png "图10-1-1未添加vCenter集群界面")
 
-###### 图10-1-1 未添加vCenter集群界面
+###### 图10-1-1 集群界面（未添加vCenter）
 
 
 ![png](../images/10-1-2.png "图10-1-2集群结构图")
@@ -23,7 +23,7 @@
 
 ![png](../images/10-1-3.png "图10-1-3 已添加vCenter集群界面")
 
-###### 图10-1-3 已添加vCenter集群界面
+###### 图10-1-3 集群界面（已添加vCenter）
 
 点击“删除vCenter”按钮，弹出确认提示框，点击确定会清除vCener。
 ![png](../images/10-1-4.png "图10-1-4删除vCenter界面")
