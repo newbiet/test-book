@@ -224,10 +224,14 @@ b\)彻底删除:选择彻底删除后,云主机相关资源会被彻底删除掉
 
 35.添加\/删除SSH Key：点击云主机界面操作列表中的添加SSH Key按钮，进入添加SSH Key界面。如图7-2-30所示，在文本框中输入要添加的SSH Key，点击确认，重启后生效。SSH key具体介绍请参考[7.5](/VM/ssh-key.md)章节。
 
-   * 注意：如果云主机之前已注入过ssh-key，则需在云主机中手动执行：rm -rf /var/lib/cloud/instances， 以清理先前配置。
+**注意：**如果云主机之前已注入过ssh-key，则需在云主机中手动执行：rm -rf /var/lib/cloud/instances， 以清理先前配置。
 
 ![png](../images/7-2-22.png "图7-2-22 添加SSH Key界面")
 
 ###### 图7-2-22 添加SSH Key界面
+
+36.重置云主机
+
+
 
 
