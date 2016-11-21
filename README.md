@@ -53,6 +53,7 @@
 | 区域 | Zone |
 | 二层网络 | L2 Network |
 | 三层网络 | L3 Network |
+| 云路由 | Virtual Router |
 | 安全组 | Security Group |
 | 计算规格 | Instance Offering |
 | 云盘规格 | Disk Offering |
@@ -61,6 +62,7 @@
 | 弹性IP | EIP |
 | 无域间路由 | CIDR |
 | 镜像仓库 | Image Store |
+
 
 ## 版本更新
 
