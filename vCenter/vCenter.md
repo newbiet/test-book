@@ -17,6 +17,8 @@
 
 添加vCenter成功后，会自动添加vSphere的集群、物理机、镜像、网络、存储、云主机等资源，在每个资源的界面上都会自动显示。
 
+**注意：**目前只支持对ESX(i)云主机的管理[10.2](/vCenter/ESX-vm.md)，其他资源的功能我们会在后续的版本中开放。
+
 2.删除vCenter
 
 当用户添加成功一个vCenter后，集群界面中“添加vCenter”按钮变为“删除vCenter”按钮。如图10-1-3所示。**删除vCenter后会清除其上所有资源在Mevoco中的记录，并不会删除vCenter上的真实资源。**（VMware vSphere Client上登录依然可以看到完整的已部署的VMware环境）
