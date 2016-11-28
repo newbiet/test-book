@@ -216,7 +216,7 @@
 
 2016\/10\/09 主要更新：
 
-1. 管纳vCenter（[10.1](/vCenter/README.md)）
+1. 管纳vCenter（技术预览）（[10.1](/vCenter/README.md)）
 
 2. 云路由（IPsec、负载均衡、端口转发、弹性IP、DNS、DHCP）\([14.4](/Network/VR-README.md)\)
 
