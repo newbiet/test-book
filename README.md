@@ -63,7 +63,6 @@
 | 无域间路由 | CIDR |
 | 镜像仓库 | Image Store |
 
-
 ## 版本更新
 
 ### 1.0
@@ -219,36 +218,30 @@
 
 1. 管纳vCenter（[10.1](/vCenter/README.md)）
 
-2. 云路由（VPN、负载均衡、端口转发、弹性IP、DNS、DHCP）([14.4](/Network/VR-README.md))
+2. 云路由（IPsec、负载均衡、端口转发、弹性IP、DNS、DHCP）\([14.4](/Network/VR-README.md)\)
 
-3. 在线重置云主机密码（linux/windows）([7.2](/VM/single-vm.md))
+3. 在线修改云主机密码（linux\/windows）\([7.2](/VM/single-vm.md)\)
 
-4. 创建云主机时指定主存储([7.1](/VM/new-vm.md))
+4. 创建云主机时指定主存储\([7.1](/VM/new-vm.md)\)
 
-5. 主存储进入维护模式([12.1](/Storage/ps.md))
+5. 主存储进入维护模式\([12.1](/Storage/ps.md)\)
 
-6. 重置云主机([7.2](/VM/single-vm.md))
+6. 重置云主机\([7.2](/VM/single-vm.md)\)
 
-7. 限制普通账户快照数量([20.1](/User-MN/account.md))
+7. 限制普通账户快照、云主机、定时任务数量\([20.1](/User-MN/account.md)\)
 
-8. 限制普通账户云主机数量([20.1](/User-MN/account.md))
+8. 数据盘的virtioscsci 选项\([13](/Volumn/README.md)\)
 
-9. 限制普通账户定时任务数量([20.1](/User-MN/account.md))
+9. 云主机暂停\/恢复\([7.2](/VM/single-vm.md)\)
 
-10. 云主机暂停\/恢复([7.2](/VM/single-vm.md))
+10. 管理节点提供ntp时间同步服务
 
-11. 管理节点提供ntp时间同步服务
+11. 自动更新已定时任务状态\([19](/Schedule/README.md)\)
 
-12. 自动更新已完成\/过期定时任务状态([19](/Schedule/README.md))
+12. 显示集群资源信息
 
-13. 显示集群资源信息
+13. 设置云主机boot选项
 
-14. 数据盘的virtioscsci 选项([13](/Volumn/README.md))
-
-15. 设置云主机boot选项
-
-16. 优化部分页面显示内容
-
-
+14. 优化部分页面显示内容
 
 
