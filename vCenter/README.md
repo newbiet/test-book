@@ -1,4 +1,4 @@
-# 10 vCenter管理
+# 10 vCenter管理（技术预览）
 
 VMware vCenter Server 是VMware vCenter的集中式管理平台。
 
