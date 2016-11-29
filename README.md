@@ -230,7 +230,7 @@
 
 7. 限制普通账户快照、云主机、定时任务数量\([20.1](/User-MN/account.md)\)
 
-8. 数据盘的virtioscsci 选项\([13](/Volumn/README.md)\)
+8. 数据云盘的virtioscsci 选项\([13](/Volumn/README.md)\)
 
 9. 云主机暂停\/恢复\([7.2](/VM/single-vm.md)\)
 
