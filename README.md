@@ -219,7 +219,7 @@
 
 1. 管纳vCenter（技术预览）（[10.1](/vCenter/README.md)）
 
-2. 云路由（IPsec、负载均衡、端口转发、弹性IP、DNS、DHCP）\([14.4](/Network/VR-README.md)\)
+2. 云路由（IPsec、端口转发、弹性IP、DNS、DHCP）\([14.4](/Network/VR-README.md)\)
 
 3. 在线修改云主机密码([7.2](/VM/single-vm.md)\)
 
