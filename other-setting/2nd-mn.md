@@ -46,6 +46,7 @@ max_connections = 500
 ### 多管理节点自动升级
 
 ZStack一条命令即可完成多节点的升级：
+
 ```
 zstack-ctl upgrade_multi_management_node --installer-bin zstack-installer.bin
 ```
