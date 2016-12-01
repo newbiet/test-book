@@ -2,7 +2,7 @@
 
 ### 自动安装
 
-如果用户希望搭建一个高可用的产品级云环境，那么可以部署多个管理节点以保证管理节点的高可用。 如有对数据库和消息总线有高可用的需求，可参考Mevoco 高可用集群快速配置进行配置。
+如果用户希望搭建一个高可用的产品级云环境，那么可以部署多个管理节点以保证管理节点的高可用。 如有对数据库和消息总线有高可用的需求，可参考[Mevoco 高可用集群快速配置进行配置](http://www.mevoco.com/downloads/mevoco/documents/PD2001-Mevoco-HA-Cluster-Quick-Configuration-1.6.0.pdf)。
 
 用户通过[3.1](/install/offline-install.md)或者[3.2](/install/online-install.md)已经安装完成一个管理节点，使用`zstack-ctl add_multi_management`命令安装。使用方法如下：
 
@@ -43,13 +43,11 @@ max_connections = 500
 
 如果用户购买了Mevoco使用授权，请联系销售厂商给每一个管理节点单独安装一个授权协议。
 
-在多管理节点需要升级时，需将所有的管理节点的服务通过”zstack-ctl stop”全部停止，在第一台管理节点通过-u 参数升级，第二台管理节点通过以下方式升级：
+### 多管理节点自动升级
 
+ZStack一条命令即可完成多节点的升级：
 ```
-zstack-ctl upgrade_management_node --host=ip_of_machine_to_upgrade_node_2 --war-file=/usr/local/zstack/zstack.war
+zstack-ctl upgrade_multi_management_node --installer-bin zstack-installer.bin
 ```
 
-升级完毕后，需启动两台管理节点的服务。其他管理节点可参考第二台管理节点的升级过程进行升级，升级过程中所有的管理节点的服务需停掉。
-
-全部升级完毕后再次开启服务。
 
