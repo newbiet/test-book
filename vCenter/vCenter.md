@@ -2,7 +2,7 @@
 
 1.添加vCenter
 
-点击集群界面的添加VCenter按钮，进入添加vCenter界面。如图10-1-2所示。
+点击集群界面的添加vCenter按钮，进入添加vCenter界面。如图10-1-2所示。
 
 * 目前只允许添加一个vCenter
 
