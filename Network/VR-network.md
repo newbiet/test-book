@@ -53,7 +53,7 @@
 
 点击添加按钮，进入添加云路由镜像界面。这里与添加普通镜像十分类似。输入名字、URL并选择镜像服务器。
 
-**注意：**在官方给出的离线环境中，已经封装了最新的云路由镜像，URL使用`file:////opt/zstack-dvd/zstack-vyos-virtualrouter.qcow2`即可。也可以去官网上获取云路由镜像链接。
+**注意：**在官方给出的离线环境中，已经封装了最新的云路由镜像，URL使用`file:////opt/zstack-dvd/zstack-vyos-virtualrouter.qcow2`即可。也可以去官网上获取云路由镜像链接。只有类型为镜像仓库和sftp的镜像服务器支持本地路径导入。所有镜像服务器均支持URL添加，云路由镜像URL:http://download.zstack.org/templates/zstack-vrouter-20161130.qcow2
 
 ![png](../images/14-4-1-7.png "图14-4-1-7 添加云路由镜像")
 ###### 图14-4-1-7 添加云路由镜像
