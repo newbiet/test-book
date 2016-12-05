@@ -217,27 +217,27 @@
 
 2016/12/05 主要更新：
 
-1. 管纳vCenter（技术预览）\([10.1\)](/vCenter/README.md)
+1. [管纳vCenter（技术预览](/vCenter/vCenter.md)）
 
-2. 云路由（IPsec、端口转发、弹性IP、DNS、DHCP）\([14.4](/Network/VR-README.md)\)
+2. [云路由](/Network/VR-README.md)（IPsec、端口转发、弹性IP、DNS、DHCP）
 
-3. 在线修改云主机密码\([7.2](/VM/single-vm.md)\)
+3. [在线修改云主机密码](/VM/single-vm.md)
 
-4. 指定主存储创建云主机\([7.1](/VM/new-vm.md)\)
+4. [指定主存储创建云主机](/VM/new-vm.md)
 
-5. 主存储维护模式\([12.1](/Storage/ps.md)\)
+5. [主存储维护模式](/Storage/ps.md)
 
-6. 重置云主机\([7.2](/VM/single-vm.md)\)
+6. [重置云主机](/VM/single-vm.md)
 
-7. 限制普通账户快照、云主机、定时任务数量\([20.1](/User-MN/account.md)\)
+7. [限制普通账户快照、云主机、定时任务数量](/User-MN/account.md)
 
-8. 数据云盘的virtioscsci 选项\([13](/Volumn/README.md)\)
+8. [数据云盘的virtioscsci 选项](/Volumn/README.md)
 
-9. 云主机暂停/恢复\([7.2](/VM/single-vm.md)\)
+9. [云主机暂停/恢复](/VM/single-vm.md)
 
 10. 管理节点提供ntp时间同步服务
 
-11. 自动更新定时任务状态\([19](/Schedule/README.md)\)
+11. [自动更新定时任务状态](/Schedule/README.md)
 
 12. 显示集群资源信息
 
