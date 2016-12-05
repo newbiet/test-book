@@ -163,21 +163,21 @@
 
 2016/08/31 主要更新：
 
-1. 新增集群功能（[9](/Cluster/cluster-introduction.md)）
+1. [新增集群功能](/Cluster/README.md)
 
-2. 新增操作助手（[6.4](/Main/help-box.md)）
+2. [新增操作助手](/Main/help-box.md)
 
-3. 新增定时任务功能\([7.2](/VM/single-vm.md)\)
+3. [新增定时任务功能](/VM/single-vm.md)
 
-4. 新增云主机克隆功能\([7.2](/VM/single-vm.md)\)
+4. [新增云主机克隆功能](/VM/single-vm.md)
 
-5. 新增设置云主机控制台密码功能\([7.2](/VM/single-vm.md)\)
+5. [新增设置云主机控制台密码功能](/VM/single-vm.md)
 
-6. 新增镜像仓库镜像导出功能\([10.1](/Image/single-image.md)\)
+6. [新增镜像仓库镜像导出功能](/Image/single-image.md)
 
-7. 已创建云主机支持添加\/删除SSH key\([7.2](/VM/single-vm.md)\)
+7. [已创建云主机支持添加\/删除SSH](/VM/single-vm.md) 
 
-8. 支持为账户分配EIP的配额\([18.1](/User-MN/account.md)\)
+8. [支持为账户分配EIP的配额](/User-MN/account.md)
 
 9. ceph存储支持指定池名
 
@@ -192,19 +192,19 @@
 
 2016/10/09 主要更新：
 
-1. 新增LDAP组件\([6.5](/Main/65.md)\)
+1. [新增LDAP组件](/Main/LDAP.md)
 
-2. 支持删除已导出的镜像\([10.1](/Image/single-image.md)\)
+2. [支持删除已导出的镜像](/Image/single-image.md)
 
-3. 新增关闭电源\([7.2](/VM/single-vm.md)\)
+3. [新增关闭电源](/VM/single-vm.md)
 
-4. 支持创建云主机时设置console密码\([7.1](/VM/new-vm.md)\)
+4. [支持创建云主机时设置console密码](/VM/new-vm.md)
 
 5. 指定IP时提示可用IP资源
 
-6. 支持多管理节点一键安装\([21.1](/other-setting/2nd-mn.md)\)
+6. [支持多管理节点一键安装](/other-setting/2nd-mn.md)
 
-7. 支持启用/停用定时任务\([18](/Schedule/README.md)\)
+7. [支持启用/停用定时任务](/Schedule/README.md)
 
 8. 关闭显示日志功能
 
