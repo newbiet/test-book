@@ -43,6 +43,7 @@
 | 中文 | 英文 |
 | --- | --- |
 | 管理节点 | Management Node |
+| 区域 | Zone |
 | 集群 | Cluster |
 | 物理机 | Host |
 | 云主机 | VM Instance |
@@ -50,8 +51,6 @@
 | 主存储 | Primary Storage |
 | 镜像 | Image |
 | 云盘 | Volume |
-| 集群 | Cluster |
-| 区域 | Zone |
 | 二层网络 | L2 Network |
 | 三层网络 | L3 Network |
 | 云路由 | Virtual Router |
