@@ -241,53 +241,29 @@
 
 2017/01/20 主要更新：
 
-添加的vCenter支持Mevoco网络功能
+添加的vCenter支持Mevoco网络功能（技术预览）
 
 完善管纳vCenter部分功能（技术预览）
 
-云路由负载均衡服务
+云路由-负载均衡服务
 
 新增**添加镜像/创建镜像（ps除ceph）/冷迁移** 状态进度条显示
 
-REST API
+全新ISO，TUI,bin,版本号，模式  
 
-新ISO
+一个云主机支持使用多个EIP~~（扁平和VR的EIP区别，负载均衡，端口转发）~~
 
-导入BS已存在 image
-
-MN HA
-
-system tag qemu
-
-一个云主机支持使用多个VIP（扁平和VR的EIP区别，负载均衡，端口转发）
-
-支持创建云主机时添加virtio-scsi选项，共享云盘
+支持创建云主机时添加virtio-scsi选项
 
 支持修改云主机的网络和数据云盘的QoS
 
 支持一个数据云盘挂载到多个云主机,只有ceph
 
-支持修改cpu和memory
+支持VM/VR修改cpu和memory
 
-新增云主机，镜像QGA开关
+新增云主机、镜像QGA开关
 
 优化部分界面内容
 
 优化部分业务逻辑
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
