@@ -1,4 +1,4 @@
-# 2.4 ZStack定制版CentOS 7.2安装
+# 2.4 ZStack企业版ISO
 
 基于CentOS-7-x86_64-minimal-1511.ISO官方ISO，ZStack社区深度定制了CentOS 7.2 ISO，方便用户安装使用。
 

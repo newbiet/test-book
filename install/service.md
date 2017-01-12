@@ -39,4 +39,4 @@ UI status: Running [PID:31287] http://172.20.12.20:5000
 
 ```zstack-ctl stop && zstack-ctl start``` 
 
-注意：启动服务过程中遇到的异常，请参考18.1.3服务异常处理。
+注意：启动服务过程中遇到的异常，请参考[服务异常处理](/exception/service.md)。

@@ -8,7 +8,7 @@
 * [2 配置需求](Requirement/README.md)
     * [2.1 网络环境](Requirement/network-env.md)
     * [2.2 硬件要求](Requirement/hardware.md)
-    * [2.3 软件要求](Requirement/software.md)
+    <!--* [2.3 软件要求](Requirement/software.md)-->
     * [2.4 ZStack定制版CentOS 7.2安装](Requirement/zstack-centos.md)
 * [3 安装部署Mevoco](install/README.md)
     * [3.1 离线安装Mevoco](install/offline-install.md)
