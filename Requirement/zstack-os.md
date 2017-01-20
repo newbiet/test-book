@@ -1,16 +1,16 @@
 # 2.4 ZStack企业版ISO
 
-基于CentOS-7-x86_64-minimal-1511.ISO官方ISO，ZStack社区深度定制了CentOS 7.2 ISO，方便用户安装使用。
+基于CentOS-7-x86_64-Minimal-1511.ISO官方ISO，ZStack社区深度定制了ZStack-Entprise ISO，方便用户安装使用。
 
 支持以下特性：
 
-1. 基于CentOS-7-x86_64-Minimal-1511.ISO深度定制；
+1. 基于CentOS-7-x86_64-Minimal-1511.ISO深度定制，友好的TUI管理界面，支持多种系统配置；
 
-2. 包含Mevoco需要的所有安装包，安装Mevoco时，无须连接外网，也无须配置yum源，就可以实现Mevoco的完全离线安装；
+2. 包含Mevoco需要的所有安装包，安装Mevoco时，无需连接外网，也无须配置yum源，就可以实现Mevoco的完全离线安装；
 
-3. 保留了CentOS7.2的官方yum源，支持官方yum更新；
+3. 提供三种安装模式
 
-4. 默认设置了root密码为password，支持安装OS后修改密码；
+4. 设置了root密码为password，支持安装OS后修改密码；（安装过程手动设置）
 
 5. 1.6版本取消了eth设置。采用系统默认的网卡命名规则;
 
