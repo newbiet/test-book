@@ -1,4 +1,4 @@
-# 3.3 升级Mevoco
+# 3.2 ZStack计算节点
 
 使用ZStack 或者Mevoco 较低版本的用户可以直接升级到最新版本的Mevoco。
 
