@@ -57,7 +57,7 @@
 ![png](../images/2-4-3.png "图2-4-5 刻录成功界面") 
 ###### 图2-4-5 刻录成功界面
 
-7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装Stack-Enterprise-x86_64-DVD-Installation，引导安装界面如图2-4-6所示：
+7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-x86_64-DVD-Installation，引导安装界面如图2-4-6所示：
 
 ![png](../images/2-4-3.png "图2-4-6 ISO引导安装界面") 
 ###### 图2-4-6 ISO引导安装界面
