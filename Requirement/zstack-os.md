@@ -52,29 +52,37 @@
 ![png](../images/2-4-4.png "图2-4-4 点击是按钮进行确认")
 ###### 图2-4-4 点击是按钮进行确认
 
-6.刻录成功的界面如图2-4-5所示，表示ZStack-Enterprise-x86_64-DVD-x.x.x.iso可引导U盘已刻录成功。
+6.刻录成功的界面如图2-4-5所示，表示Stack-Enterprise-x86_64-DVD-Installation可引导U盘已刻录成功。
 
 ![png](../images/2-4-3.png "图2-4-5 刻录成功界面") 
 ###### 图2-4-5 刻录成功界面
 
-7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-x86_64-DVD-x.x.x.iso，引导安装界面如图2-4-6所示：
+7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装Stack-Enterprise-x86_64-DVD-Installation，引导安装界面如图2-4-6所示：
 
 ![png](../images/2-4-3.png "图2-4-6 ISO引导安装界面") 
 ###### 图2-4-6 ISO引导安装界面
 
-8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-x86_64-DVD-x.x.x.iso操作系统，如图2-4-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
+8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-x86_64-DVD-Installation操作系统，如图2-4-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
 
 ![png](../images/2-4-7.png "图2-4-7 安装分区界面") 
 ###### 图2-4-7 安装分区界面
 
-9. 分区完毕后有三种安装模式可供选择，如图2-4-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
+9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-4-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
 
-![png](../images/2-4-8.png "图2-4-8  选择一种安装模式) 
+![png](../images/2-4-8.png "图2-4-8 选择一种安装模式") 
 ###### 图2-4-8 选择一种安装模式
 
 
-10.分区完毕后，点击“Begin Installation”按钮，如图2-4-8所示，开始安装。所有的安装包安装完毕后，点击“重启”按钮，即可启动进入CentOS7.2系统。
+10.选择安装软件后，点击“Begin Installation”按钮，如图2-4-8所示，开始安装。
 
-![png](../images/2-4-9.png "图2-4-8  点击“Begin Installation”按钮") 
-###### 图2-4-8 点击“Begin Installation”按钮
+![png](../images/2-4-9.png "图2-4-9  点击“Begin Installation”按钮") 
+###### 图2-4-9 点击“Begin Installation”按钮
+
+11.如图2-4-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
+
+![png](../images/2-4-10.png "图2-4-10  系统安装过程界面") 
+###### 图2-4-10 系统安装过程界面
+
+**注意：**如果选择管理节点或者计算节点安装模式，系统重启后会自动安装对应的ZStack软件。专家模式下重启后进入shell界面，由高级玩家自定义安装。
+
 
