@@ -7,7 +7,7 @@
 ```
 [root@localhost ~]#crontab -l
 30 0,12 * * * zstack-ctl dump_mysql --keep-amount 14
-#表示每天夜间12点半和中午12点半进行数据库备份，并保存最新的14次备份
+# 表示每天夜间12点半和中午12点半进行数据库备份，并保存最新的14次备份
 数据库自动备份的目录为：/var/lib/zstack/mysql-backup
 ```
 

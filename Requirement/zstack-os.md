@@ -52,17 +52,17 @@
 ![png](../images/2-4-4.png "图2-4-4 点击是按钮进行确认")
 ###### 图2-4-4 点击是按钮进行确认
 
-6.刻录成功的界面如图2-4-5所示，表示Stack-Enterprise-x86_64-DVD-Installation可引导U盘已刻录成功。
+6.刻录成功的界面如图2-4-5所示，表示Stack-Enterprise-Installation可引导U盘已刻录成功。
 
 ![png](../images/2-4-3.png "图2-4-5 刻录成功界面") 
 ###### 图2-4-5 刻录成功界面
 
-7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-x86_64-DVD-Installation，引导安装界面如图2-4-6所示：
+7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-Installation，引导安装界面如图2-4-6所示：
 
 ![png](../images/2-4-3.png "图2-4-6 ISO引导安装界面") 
 ###### 图2-4-6 ISO引导安装界面
 
-8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-x86_64-DVD-Installation操作系统，如图2-4-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
+8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-Installation操作系统，如图2-4-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
 
 ![png](../images/2-4-7.png "图2-4-7 安装分区界面") 
 ###### 图2-4-7 安装分区界面

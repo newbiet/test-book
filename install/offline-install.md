@@ -2,7 +2,7 @@
 
 如果用户的内网无法访问官方yum源，并打算快速部署Mevoco，可采用ZStack定制版ZStack-Entprise ISO安装系统，此系统可实现Mevoco完全离线安装。
 
-用户需提前准备好已安装了ZStack定制版Centos 7.2的物理机器，将此机器作为待安装Mevoco的管理节点。
+用户需提前准备好已安装了ZStack-Enterprise-Installation的物理机器，将此机器作为待安装Mevoco的管理节点。
 
 ZStack定制版Centos 7.2的root密码为：password
 
