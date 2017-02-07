@@ -241,25 +241,25 @@
 
 2017/01/20 主要更新：
 
-1. 全新ISO，TUI,bin,版本号，模式
+1. [ZStack企业版ISO](/Requirement/zstack-os.md)支持[全新TUI及使用模式](/install/README.md)
 
-2. 添加的vCenter支持Mevoco网络功能（技术预览）
+2. [vCenter支持Mevoco云路由](/vCenter/103-vcenter云路由网络.md)（技术预览）
 
-3. 完善接管vCenter部分功能（技术预览）
+3. 完善[接管vCenter](/vCenter/README.md)部分功能（技术预览）
 
-4. 支持一个数据云盘挂载到多个云主机,只有ceph
+4. [支持共享云盘](/Volumn/README.md)
 
-5. 新增**添加镜像（所有ps）/创建镜像（ps除ceph）/冷迁移（ps除ceph）** 状态进度条显示
+5. 部分操作支持进度条显示
 
-6. 云路由新增负载均衡服务
+6. [云路由新增负载均衡服务](/Network/loadbalance.md)
 
-7. 一个云主机支持使用多个EIP
+7. [一个云主机支持使用多个EIP](/Network/eip.md)
 
-8. 支持更新云主机的网络和数据云盘的QoS
+8. 支持更新[云主机的网络](/VM/single-vm.md)和[数据云盘](/Volumn/README.md)的QoS
 
-9. 支持云主机修改cpu和memory
+9. 支持[云主机修改CPU和Memory](/VM/single-vm.md)
 
-10. 支持创建云主机时添加virtio-scsi选项
+10. [支持创建云主机时添加virtio-scsi选项](/VM/new-vm.md)
 
 11. 新增云主机、镜像QGA开关
 
