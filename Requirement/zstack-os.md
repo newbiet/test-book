@@ -1,6 +1,6 @@
 # 2.4 ZStack企业版ISO
 
-基于CentOS-7-x86_64-Minimal-1511.ISO官方ISO，ZStack社区深度定制了ZStack-Entprise ISO，方便用户安装使用。
+基于CentOS-7-x86_64-Minimal-1511.ISO官方ISO，ZStack社区深度定制了ZStack-Enterprise ISO，方便用户安装使用。
 
 **注意：**安装/升级ZStack企业版必须使用**离线模式**。
 

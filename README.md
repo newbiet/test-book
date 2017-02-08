@@ -255,7 +255,7 @@
 
 7. [一个云主机支持使用多个EIP](/Network/eip.md)
 
-8. 支持更新[云主机的网络](/VM/single-vm.md)和[数据云盘](/Volumn/README.md)的QoS
+8. 支持实时更新[云主机的网络](/VM/single-vm.md)和[数据云盘](/Volumn/README.md)的QoS
 
 9. 支持[云主机修改CPU和Memory](/VM/single-vm.md)
 
