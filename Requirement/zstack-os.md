@@ -31,12 +31,12 @@
 
 [http://pan.baidu.com/s/1sl911oh](http://pan.baidu.com/s/1sl911oh)
 
-2.使用UltraISO（可点击此链接下载试用版），将此ISO刻录到U盘，打开UltraISO后，点击“文件”按钮，打开此ISO，如图2-4-1所示。
+2.使用UltraISO（可点击此链接下载试用版），将此ISO刻录到U盘，打开UltraISO后，点击“文件”按钮，打开此ISO，如图2-3-1所示。
 
 ![png](../images/2-3-1.png "图2-3-1 UltraISO打开ISO")
 ###### 图2-3-1 UltraISO打开ISO 
   
-3.点击“启动”按钮，选择“写入硬盘镜像”，如图2-4-2所示。
+3.点击“启动”按钮，选择“写入硬盘镜像”，如图2-3-2所示。
 
 ![](../images/2-3-2.png )
 ###### 图2-3-2 选择写入硬盘镜像
@@ -44,43 +44,43 @@
 
 4.在硬盘驱动器列表选择相应的U盘进行刻录，如果系统只插了一个U盘，则默认以此U盘进行刻录和写入，在刻录前，注意备份U盘之前的内容。
 
-其他选项，按照默认设置，无须额外配置。点击“写入”按钮，如图2-4-3所示。
+其他选项，按照默认设置，无须额外配置。点击“写入”按钮，如图2-3-3所示。
 
 ![png](../images/2-3-3.png "图2-3-3 点击写入按钮")
 ###### 图2-3-3 点击写入按钮
 
-5.点击“是”按钮进行确认，如图2-4-4所示，UltraISO将会把此ISO刻录到U盘。
+5.点击“是”按钮进行确认，如图2-3-4所示，UltraISO将会把此ISO刻录到U盘。
 
 ![png](../images/2-3-4.png "图2-3-4 点击是按钮进行确认")
 ###### 图2-3-4 点击是按钮进行确认
 
-6.刻录成功的界面如图2-4-5所示，表示Stack-Enterprise-Installation可引导U盘已刻录成功。
+6.刻录成功的界面如图2-3-5所示，表示Stack-Enterprise-Installation可引导U盘已刻录成功。
 
 ![png](../images/2-3-5.png "图2-3-5 刻录成功界面") 
 ###### 图2-3-5 刻录成功界面
 
-7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-Installation，引导安装界面如图2-4-6所示：
+7.使用U盘引导安装 ，在BIOS启动界面，选择使用此U盘引导安装ZStack-Enterprise-Installation，引导安装界面如图2-3-6所示：
 
 ![png](../images/2-3-6.png "图2-3-6 ISO引导安装界面") 
 ###### 图2-3-6 ISO引导安装界面
 
-8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-Installation操作系统，如图2-4-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
+8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-Installation操作系统，如图2-3-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
 
 ![png](../images/2-3-7.png "图2-3-7 安装分区界面") 
 ###### 图2-3-7 安装分区界面
 
-9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-4-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
+9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-3-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
 
 ![png](../images/2-3-8.png "图2-3-8 选择一种安装模式") 
 ###### 图2-3-8 选择一种安装模式
 
 
-10.选择安装软件后，点击“Begin Installation”按钮，如图2-4-8所示，开始安装。
+10.选择安装软件后，点击“Begin Installation”按钮，如图2-3-9所示，开始安装。
 
-![png](../images/2-3-9.png "图2-4-9  点击“Begin Installation”按钮") 
+![png](../images/2-3-9.png "图2-3-9  点击“Begin Installation”按钮") 
 ###### 图2-3-9 点击“Begin Installation”按钮
 
-11.如图2-4-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
+11.如图2-3-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
 
 ![png](../images/2-3-10.png "图2-3-10  系统安装过程界面") 
 ###### 图2-3-10 系统安装过程界面
