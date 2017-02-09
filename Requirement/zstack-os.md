@@ -99,13 +99,13 @@
 
 10.选择安装软件后，点击“Begin Installation”按钮，如图2-3-9所示，开始安装。
 
-![png](../images/2-3-9.png "图2-3-9  点击“Begin Installation”按钮") 
-###### 图2-3-9 点击“Begin Installation”按钮
+![png](../images/2-3-14.png "图2-3-14  点击“Begin Installation”按钮") 
+###### 图2-3-14 点击“Begin Installation”按钮
 
 11.如图2-3-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
 
-![png](../images/2-3-10.png "图2-3-10  系统安装过程界面") 
-###### 图2-3-10 系统安装过程界面
+![png](../images/2-3-15.png "图2-3-15  系统安装过程界面") 
+###### 图2-3-15 系统安装过程界面
 
 **注意：**如果选择管理节点或者计算节点安装模式，系统重启后会自动安装对应的ZStack软件。专家模式下重启后进入shell界面，由高级玩家自定义安装。
 
