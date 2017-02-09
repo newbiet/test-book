@@ -10,7 +10,7 @@
   * [2.2 硬件要求](Requirement/hardware.md)
   * [2.3 ZStack企业版ISO](Requirement/zstack-os.md)
 * [3 安装部署ZStack](install/README.md)
-  * [3.1 ZStack管理节点](install/mn-install.md)
+  * [3.1 ZStack管理节点](install/mn-node.md)
   * [3.2 ZStack计算节点](install/compute-node.md)
   * [3.3 ZStack专家模式](install/zstack-pro.md)
   * [3.4 部署ZStack服务](install/service.md)
