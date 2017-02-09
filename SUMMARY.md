@@ -12,7 +12,7 @@
 * [3 安装部署ZStack](install/README.md)
   * [3.1 ZStack管理节点](install/offline-install.md)
   * [3.2 ZStack计算节点](install/upgrade.md)
-  * [3.3 ZStack专家模式](install/32-zstack专家模式.md)
+  * [3.3 ZStack专家模式](install/zstack-pro.md)
   * [3.4 部署ZStack服务](install/service.md)
   * [3.5 升级ZStack](install/3.5-zstack.md)
 * [4 系统登录](login/login.md)
