@@ -64,13 +64,13 @@
 ![png](../images/2-3-6.png "图2-3-6 ISO引导安装界面") 
 ###### 图2-3-6 ISO引导安装界面
 
-8.进入系统安装界面后，有如图若干配置选项。需要格外注意的是红色方框中的配置项，下面依次介绍。
+8.进入系统安装界面后，如图2-3-7所示若干配置选项。需要格外注意的是红色方框中的配置项。
 
 ![png](../images/2-3-7.png "图2-3-7 选择一种安装模式") 
 ###### 图2-3-7 选择一种安装模式
 
 9.进入“INSTALLATION DESTINATION”后的配置界面，如图2-3-8所示。
-1. 选择磁盘。注意：注意不要把用于安装系统的U盘也选中!
+1. 选择磁盘。注意：不要把用于安装系统的U盘也选中!
 2. 选择“Automatically configure partitioning”，自动将所选磁盘配置为LVM。当然也可以保持默认选择“I will configure partitioning”进行手动配置。
 
 ![png](../images/2-3-8.png "图2-3-8 选择一种安装模式") 
@@ -85,7 +85,7 @@
 ###### 图2-3-9 选择一种安装模式
 
 
-11.如果无法获取DHCP地址，或者需要手动配置静态地址，则按图2-3-10操作。
+11.如果无法获取DHCP地址，或者需要手动配置静态地址，则按图2-3-10所示操作。
 1. 点击“Configure”按钮
 2. 进入“IPv4 Settings”选项页
 3. 选择“Manual”以进行手动配置
@@ -96,7 +96,7 @@
 ![png](../images/2-3-10.png "图2-3-10 选择一种安装模式") 
 ###### 图2-3-10 选择一种安装模式
 
-为了使网卡在重启之后自动启动，可按上图操作：
+12.为了使网卡在重启之后自动启动，可按图2-3-11所示操作：
 1. 点击“Configure”按钮
 2. 进入“General”选项页
 3. 勾选“Automatically connect to this network when it is available”
@@ -105,27 +105,25 @@
 ![png](../images/2-3-11.png "图2-3-11 选择一种安装模式") 
 ###### 图2-3-11 选择一种安装模式
 
-最终配置界面应该如图2-3-12所示。尤其注意网卡配置项，必须保证有一个网卡是开启且配置了地址的，否则ZStack无法正常安装！
+13最终配置界面应该如图2-3-12所示。尤其注意网卡配置项，必须保证有一个网卡是开启且配置了地址的，否则ZStack无法正常安装！
 
 ![png](../images/2-3-12.png "图2-3-12 选择一种安装模式") 
 ###### 图2-3-12 选择一种安装模式
 
 
-
-9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-3-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
+14.分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-3-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
 
 ![png](../images/2-3-13.png "图2-3-13 选择一种安装模式") 
 ###### 图2-3-13 选择一种安装模式
 
-
-10.选择安装软件后，点击“Begin Installation”按钮，如图2-3-9所示，开始安装。
+15.选择安装软件后，点击“Begin Installation”按钮，如图2-3-9所示，开始安装。
 
 ![png](../images/2-3-14.png "图2-3-14  点击“Begin Installation”按钮") 
 ###### 图2-3-14 点击“Begin Installation”按钮
 
-11.如图2-3-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
+16.如图2-3-10安装过程中请设置root password，所有的安装包安装完毕后，点击“重启”按钮，即可启动进入Stack-Enterprise-x86_64-DVD-Installation系统。
 
-![png](../images/2-3-15.png "图2-3-15  系统安装过程界面") 
+![png](../images/2-3-15.png "图2-3-15 系统安装过程界面") 
 ###### 图2-3-15 系统安装过程界面
 
 **注意：**如果选择管理节点或者计算节点安装模式，系统重启后会自动安装对应的ZStack软件。专家模式下重启后进入shell界面，由高级玩家自定义安装。
