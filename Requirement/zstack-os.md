@@ -66,13 +66,35 @@
 
 8.安装过程中，只需进行分区，即可一键安装ZStack-Enterprise-Installation操作系统，如图2-3-7所示的分区为根分区48G，swap分区为8G。也可根据存储及需求，提前设置好大容量分区。如果选择使用UEFI引导，分区需另设置/boot/efi。
 
-![png](../images/2-3-7.png "图2-3-7 安装分区界面") 
-###### 图2-3-7 安装分区界面
+![png](../images/2-3-7.png "图2-3-7 选择一种安装模式") 
+###### 图2-3-7 选择一种安装模式
 
-9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-3-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
 
 ![png](../images/2-3-8.png "图2-3-8 选择一种安装模式") 
 ###### 图2-3-8 选择一种安装模式
+
+
+![png](../images/2-3-9.png "图2-3-9 选择一种安装模式") 
+###### 图2-3-9 选择一种安装模式
+
+
+![png](../images/2-3-10.png "图2-3-10 选择一种安装模式") 
+###### 图2-3-10 选择一种安装模式
+
+
+![png](../images/2-3-11.png "图2-3-11 选择一种安装模式") 
+###### 图2-3-11 选择一种安装模式
+
+
+![png](../images/2-3-12.png "图2-3-12 选择一种安装模式") 
+###### 图2-3-12 选择一种安装模式
+
+
+
+9. 分区完毕后点击SOFTWARE SELECTION,有三种安装模式可供选择，如图2-3-8所示，ZStack Management Node、ZStack Compute Node、ZStack Expert Node。首次安装请选择第一项，我们会在[安装部署](/install/README.md)章节详细介绍。
+
+![png](../images/2-3-13.png "图2-3-13 选择一种安装模式") 
+###### 图2-3-13 选择一种安装模式
 
 
 10.选择安装软件后，点击“Begin Installation”按钮，如图2-3-9所示，开始安装。
