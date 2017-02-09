@@ -14,7 +14,7 @@
   * [3.2 ZStack计算节点](install/compute-node.md)
   * [3.3 ZStack专家模式](install/zstack-pro.md)
   * [3.4 部署ZStack服务](install/service.md)
-  * [3.5 升级ZStack](install/3.5-zstack.md)
+  * [3.5 升级ZStack](install/upgrade.md)
 * [4 系统登录](login/login.md)
 * [5 Wizard引导设置](Wizard/README.md)
   * [5.1 添加物理机（计算节点）](Wizard/host.md)
