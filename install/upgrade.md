@@ -7,8 +7,8 @@
 
 在官网上下载最新版的ISO和升级脚本至/opt目录下,例如`ZStack-Enterprise-x86_64-DVD-1.9.0.iso`和`zstack-upgrade`。
 > **下载地址如下**：
-http://www.mevoco.com/downloads/scripts/zstack-upgrade
-http://download.zstack.org/releases/1.9/1.9.0/ZStack-Enterprise-x86_64-DVD-1.9.0.iso
+[http://www.mevoco.com/downloads/scripts/zstack-upgrade](http://www.mevoco.com/downloads/scripts/zstack-upgrade)
+[http://download.zstack.org/ISO/ZStack-Enterprise-x86_64-DVD-1.9.0.iso](http://download.zstack.org/ISO/ZStack-Enterprise-x86_64-DVD-1.9.0.iso)
 
 使用命令`bash zstack-upgrade ZStack-Enterprise-x86_64-DVD-1.9.0.iso`
 
