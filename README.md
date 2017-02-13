@@ -239,7 +239,7 @@
 
 ### 1.9
 
-2017/01/20 主要更新：
+2017/02/13 主要更新：
 
 1. [ZStack企业版ISO](/Requirement/zstack-os.md)支持[全新TUI及使用模式](/install/README.md)
 
