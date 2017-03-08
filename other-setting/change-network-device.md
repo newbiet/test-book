@@ -1,4 +1,4 @@
-# 22.9 CentOS7网卡设备编号变更
+# 23.9 CentOS7网卡设备编号变更
 
 本节主要描述配置物理网卡网络命令：`zs-network-setting`
 

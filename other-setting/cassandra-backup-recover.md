@@ -1,4 +1,4 @@
-# 22.13 Mevoco Cassandra数据库备份与恢复
+# 23.13 Mevoco Cassandra数据库备份与恢复
 
 Mevoco已支持自动备份Cassandra，可以通过crontab-l 查看相关的定时任务
 
@@ -8,7 +8,7 @@ Mevoco已支持自动备份Cassandra，可以通过crontab-l 查看相关的定�
 
 `You can check the file at`
 
-`/var/lib/zstack/cassandra-backup/zstack-backup-cassandra-db-zstack_billing-2016-06-28_22-43-06.tgz`
+`/var/lib/zstack/cassandra-backup/zstack-backup-cassandra-db-zstack_billing-2016-06-28_23-43-06.tgz`
 
 
 在使用过程中，发生Cassandra数据丢失的情况下，可以恢复已经备份的数据库。
