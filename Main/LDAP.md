@@ -1,4 +1,4 @@
-# 6.5 LDAP设置
+# 6.4 LDAP设置
 
 Mevoco LDAP组件为Mevoco账户提供了一种额外的登录方式。
 
@@ -6,10 +6,10 @@ Mevoco LDAP组件使得企业用户可以使用现有的LDAP统一认证方式�
 
 在Mevoco中配置了LDAP后，管理员可以在用户管理界面将LDAP用户的uid绑定到Mevoco账户，绑定成功后该Mevoco账户就可以使用他的LDAP uid和LDAP 密码登录Mevoco。
 
-![png](../images/6-5-1.png "图6-5-1 LDAP设置界面")
-###### 图6-5-1 LDAP设置界面
+![png](../images/6-4-1.png "图6-4-1 LDAP设置界面")
+###### 图6-4-1 LDAP设置界面
 
-点击菜单栏设置下的LDAP设置，会提示进入LDAP设置界面。如图6-5-1所示，为添加LDAP服务进行设置。
+点击菜单栏设置下的LDAP设置，会提示进入LDAP设置界面。如图6-4-1所示，为添加LDAP服务进行设置。
 
 * 其中**服务器**栏为必填项，填写服务器的ip地址或者域名。
  > 例如：`ldap.testing.com`或者`172.20.12.176`
@@ -21,12 +21,12 @@ Mevoco LDAP组件使得企业用户可以使用现有的LDAP统一认证方式�
  > 例如：ou=people,dc=example,dc=com
 
 
-* **加密方式** 如图6-5-2所示，支持TLS加密和普通两种方式，默认为TLS。
+* **加密方式** 如图6-4-2所示，支持TLS加密和普通两种方式，默认为TLS。
 
  TLS：使用TLS加密，需要LDAP服务器支持TLS加密且正确配置了证书和端口。
  明文：所有数据都是明文传输，不建议使用。
-![png](../images/6-5-2.png "图6-5-2 加密方式选择") 
-###### 图6-5-2 加密方式选择
+![png](../images/6-4-2.png "图6-4-2 加密方式选择") 
+###### 图6-4-2 加密方式选择
 
 * **LDAP用户DN**
 填写用于LDAP服务器认证的用户DN和密码，LDAP用户DN需要确保填写完整。
@@ -36,10 +36,10 @@ Mevoco LDAP组件使得企业用户可以使用现有的LDAP统一认证方式�
 > 例如：cn=Manager,ou=people,dc=example,dc=com
 
 
-如图6-5-2所示，点击**测试**按钮，将会使用所填信息尝试连接LDAP服务器，测试不会在Mevoco保存任何更改。
+如图6-4-2所示，点击**测试**按钮，将会使用所填信息尝试连接LDAP服务器，测试不会在Mevoco保存任何更改。
 
 点击**保存**按钮，Mevoco将记录LDAP连接信息，建议保存前先进行测试，确保连接成功。
 
 当用户的LDAP服务器发生变化时，点击**同步**按钮，将清除Mevoco中无效的LDAP绑定信息。
 
-Mevoco账户与LDAP账户绑定操作请参考[19.1](/User-MN/account.md)。
+Mevoco账户与LDAP账户绑定操作请参考[账户](/User-MN/account.md)。
