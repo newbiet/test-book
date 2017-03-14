@@ -8,7 +8,7 @@
 * [2 配置需求](Requirement/README.md)
   * [2.1 网络环境](Requirement/network-env.md)
   * [2.2 硬件要求](Requirement/hardware.md)
-  * [2.3 ZStack企业版ISO](Requirement/ZStack-enterpise-iso.md)
+  * [2.3 ZStack企业版ISO](Requirement/ZStack-os.md)
 * [3 安装部署ZStack](install/README.md)
   * [3.1 ZStack管理节点](install/mn-node.md)
   * [3.2 ZStack计算节点](install/compute-node.md)
