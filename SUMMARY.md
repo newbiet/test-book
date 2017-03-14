@@ -51,7 +51,7 @@
   * [9.1 集群操作](Cluster/single-cluster.md)
 * [10 vCenter管理（技术预览）](vCenter/README.md)
   * [10.1 vCenter操作](vCenter/vCenter.md)
-  * [10.2 ESX(i)云主机操作](vCenter/ESX-vm.md)
+  * [10.2 ESX\(i\)云主机操作](vCenter/ESX-vm.md)
   * [10.3 vCenter云路由](vCenter/vcenter-router.md)
 * [11 镜像管理](Image/README.md)
   * [11.1 单镜像操作](Image/single-image.md)
