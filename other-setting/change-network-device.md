@@ -22,4 +22,4 @@ zs-network-setting -b [interface] [ipaddress] [netmask] [gateway]
 * 注意：此命令作用在物理接口上，网关是可选参数。
 
 
-* 注意：Mevoco识别网桥名为“br_”前缀，管理员无需更名。
+* 注意：ZStack识别网桥名为“br_”前缀，管理员无需更名。

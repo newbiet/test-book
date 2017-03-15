@@ -1,6 +1,6 @@
 # 23.10 本地存储空间扩容
 
-在使用Mevoco产品的过程中， 如果存储空间容量不足，可以通过以下方式进行存储空间扩容。以下为系统主存储空间/zstack_ps扩容的样例：
+在使用ZStack产品的过程中， 如果存储空间容量不足，可以通过以下方式进行存储空间扩容。以下为系统主存储空间/zstack_ps扩容的样例：
 
 1.设置待扩容之物理机进入维护模式
 
@@ -23,13 +23,13 @@ Filesystem    Size  Used  Avail  Used%  Mounted on
 /dev/vdb1     4.0T  304G   3.5T      8%   /zstack_ps
 
 
-7.重启Mevoco服务
+7.重启ZStack服务
 
 `zstack-ctl stop`
 
 `zstack-ctl start`
 
-8.重连Host继续使用Mevoco
+8.重连Host继续使用ZStack
 
 注意: 备份存储的扩容方法与此类似，只是无须对Host进行维护模式及重连的操作。
  

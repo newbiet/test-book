@@ -1,8 +1,8 @@
 {
-    "author": "Mevoco User Manual>",
-    "description": "This is the Mevoco User Manual",
+    "author": "ZStack User Manual>",
+    "description": "This is the ZStack User Manual",
     "language": "zh-hans",
-    "title": "Mevoco User Manual",
+    "title": "ZStack User Manual",
     "plugins": [
         "-fontsettings",
         "search",
@@ -18,7 +18,7 @@
     "links":
      {
         "sidebar":{
-            "Mevoco 官网": "http://www.mevoco.com"
+            "ZStack 官网": "http://www.zstack.io"
         }
         },
     "pdf": {

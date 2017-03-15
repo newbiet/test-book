@@ -18,7 +18,7 @@
 
 ### 2.删除vCenter
 
-选择一个已添加的Center，点击红色“删除”按钮。如图10-1-3所示。**删除vCenter后会清除其上所有资源在Mevoco中的记录，并不会删除vCenter上的真实资源。**（VMware vSphere Client上登录依然可以看到完整的已部署的VMware环境）
+选择一个已添加的Center，点击红色“删除”按钮。如图10-1-3所示。**删除vCenter后会清除其上所有资源在ZStack中的记录，并不会删除vCenter上的真实资源。**（VMware vSphere Client上登录依然可以看到完整的已部署的VMware环境）
 
 
 ![png](../images/10-1-3.png "图10-1-3 已添加vCenter集群界面")

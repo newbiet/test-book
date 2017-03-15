@@ -1,10 +1,10 @@
 # 6.4 LDAP设置
 
-Mevoco LDAP组件为Mevoco账户提供了一种额外的登录方式。
+ZStack LDAP组件为ZStack账户提供了一种额外的登录方式。
 
-Mevoco LDAP组件使得企业用户可以使用现有的LDAP统一认证方式无缝接入Mevoco，提供便捷的体验。
+ZStack LDAP组件使得企业用户可以使用现有的LDAP统一认证方式无缝接入ZStack，提供便捷的体验。
 
-在Mevoco中配置了LDAP后，管理员可以在用户管理界面将LDAP用户的uid绑定到Mevoco账户，绑定成功后该Mevoco账户就可以使用他的LDAP uid和LDAP 密码登录Mevoco。
+在ZStack中配置了LDAP后，管理员可以在用户管理界面将LDAP用户的uid绑定到ZStack账户，绑定成功后该ZStack账户就可以使用他的LDAP uid和LDAP 密码登录ZStack。
 
 ![png](../images/6-4-1.png "图6-4-1 LDAP设置界面")
 ###### 图6-4-1 LDAP设置界面
@@ -36,10 +36,10 @@ Mevoco LDAP组件使得企业用户可以使用现有的LDAP统一认证方式�
 > 例如：cn=Manager,ou=people,dc=example,dc=com
 
 
-如图6-4-2所示，点击**测试**按钮，将会使用所填信息尝试连接LDAP服务器，测试不会在Mevoco保存任何更改。
+如图6-4-2所示，点击**测试**按钮，将会使用所填信息尝试连接LDAP服务器，测试不会在ZStack保存任何更改。
 
-点击**保存**按钮，Mevoco将记录LDAP连接信息，建议保存前先进行测试，确保连接成功。
+点击**保存**按钮，ZStack将记录LDAP连接信息，建议保存前先进行测试，确保连接成功。
 
-当用户的LDAP服务器发生变化时，点击**同步**按钮，将清除Mevoco中无效的LDAP绑定信息。
+当用户的LDAP服务器发生变化时，点击**同步**按钮，将清除ZStack中无效的LDAP绑定信息。
 
-Mevoco账户与LDAP账户绑定操作请参考[账户](/User-MN/account.md)。
+ZStack账户与LDAP账户绑定操作请参考[账户](/User-MN/account.md)。
