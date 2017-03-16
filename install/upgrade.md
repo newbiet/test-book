@@ -11,6 +11,7 @@
 [http://download.zstack.org/ISO/ZStack-Enterprise-x86_64-DVD-1.9.0.iso](http://download.zstack.org/ISO/ZStack-Enterprise-x86_64-DVD-1.9.0.iso)
 
 使用命令`bash zstack-upgrade ZStack-Enterprise-x86_64-DVD-1.9.0.iso`
+> 默认为-o -u参数升级
 
 
 ![png](../images/3-5-2.png "图3-5-2 升级成功")
