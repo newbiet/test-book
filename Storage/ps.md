@@ -70,6 +70,8 @@ rsync -avu /opt/zstack/nfsprimarystorage/prim-
 ![png](../images/12-1-5.png "图12-1-5 Ceph主存储挂载界面")
 ###### 图12-1-5 Ceph主存储挂载界面
 
+创建ceph pool:
+
 4.FusionStor存储：FusionStor存储显示类型为FusionStor，如图12-1-6所示。相应的监控节点信息现在是挂载栏。在挂载栏中可以添加同一集群的多个FusionStor监控节点。而且也可以像Ceph一样修改相应的SSH用户名、SSH密码、SSH端口号、FusionStor Mon的端口号。
 
 ![png](../images/12-1-6.png "图12-1-6 FusionStor主存储管理界面")
