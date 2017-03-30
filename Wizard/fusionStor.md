@@ -3,6 +3,7 @@
 FusionStor采用了华云网际提供的分布式块存储方式。如需使用Fusionstor，则需提前配置好FusionStor分布式存储。
 
 添加FusionStor存储具体步骤，与添加Ceph存储的步骤类似，如图5-2-6所示：
+
 1. 输入主存储的名字。
 
 2. 选择主存储的类型为FusionStor。
