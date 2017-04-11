@@ -21,7 +21,7 @@
 具体步骤如下：
 
 1.下载ZStack定制版ZStack-Community-ISO
-文件名称：ZStack-Community-x86_64-DVD-1.9.0.iso
+文件名称：ZStack-Community-x86_64-DVD-1.10.1.iso
 
 下载地址1：
 
