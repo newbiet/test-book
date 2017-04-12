@@ -23,13 +23,10 @@
 1.下载ZStack定制版ZStack-Enterprise-ISO
 文件名称：ZStack-Enterprise-x86_64-DVD-1.10.1.iso
 
-下载地址1：
+下载地址：
 
 [http://cdn.zstack.io/product_downloads/iso/ZStack-Enterprise-x86_64-DVD-1.10.1.iso](http://cdn.zstack.io/product_downloads/iso/ZStack-Enterprise-x86_64-DVD-1.10.1.iso)
 
-下载地址2：
-
-[http://pan.baidu.com/s/1sl911oh](http://pan.baidu.com/s/1kV2VTeJ)
 
 2.使用UltraISO（可点击此链接下载试用版），将此ISO刻录到U盘，打开UltraISO后，点击“文件”按钮，打开此ISO，如图2-3-1所示。
 
