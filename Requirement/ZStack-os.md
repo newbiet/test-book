@@ -21,11 +21,11 @@
 具体步骤如下：
 
 1.下载ZStack定制版ZStack-Community-ISO
-文件名称：ZStack-Community-x86_64-DVD-1.10.1.iso
+文件名称：ZStack-Community-x86_64-DVD-1.10.0.iso
 
 下载地址1：
 
-[http://cdn.zstack.io/product_downloads/iso/ZStack-Enterprise-x86_64-DVD-1.10.1.iso](http://cdn.zstack.io/product_downloads/iso/ZStack-Enterprise-x86_64-DVD-1.10.1.iso)
+[http://cdn.zstack.io/community/downloads/iso/ZStack-Community-x86_64-DVD-1.10.0.iso](http://cdn.zstack.io/community/downloads/iso/ZStack-Community-x86_64-DVD-1.10.0.iso)
 
 下载地址2：
 
