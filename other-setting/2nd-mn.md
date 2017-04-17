@@ -4,6 +4,7 @@
 
 如果用户希望搭建一个高可用的产品级云环境，那么可以部署多个管理节点以保证管理节点的高可用。 如有对数据库和消息总线有高可用的需求，可参考[ZStack 高可用集群快速配置进行配置](http://cdn.zstack.io/support/docs/PD2000-Cluster-Deployment/PD2001-Mevoco-HA-Cluster-Quick-Configuration/PD2001-ZStack高可用集群快速配置文档-1.10.pdf)。
 
+
 用户通过[安装部署ZStack](/install/README.md)已经安装完成一个管理节点，使用`zstack-ctl add_multi_management`命令安装。使用方法如下：
 
 `zstack-ctl add_multi_management --host-list root:passwd1@host1_ip root:passwd2@host2_ip`
