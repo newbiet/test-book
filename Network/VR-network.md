@@ -58,9 +58,9 @@
 点击添加按钮，进入添加云路由镜像界面。这里与添加普通镜像十分类似。输入名字、URL并选择镜像服务器。
 
 **注意：**在官方给出的离线环境中，已经封装了最新的云路由镜像，可以去官网上获取云路由镜像链接。只有类型为镜像仓库和sftp的镜像服务器支持本地路径导入。所有镜像服务器均支持URL添加。  
-ZStack云路由镜像URL: [http://download.zstack.org/templates/ZStack-VRouter-template-20170208.qcow2](http://download.zstack.org/templates/ZStack-VRouter-template-20170208.qcow2)
+ZStack云路由镜像URL: [http://cdn.zstack.io/product_downloads/vrouter/ZStack-VRouter-template-20170208.qcow2](http://cdn.zstack.io/product_downloads/vrouter/ZStack-VRouter-template-20170208.qcow2)
 
-vCenter云路由镜像URL: [http://download.zstack.org/templates/vCenter-VRouter-template-20170208.vmdk](http://download.zstack.org/templates/vCenter-VRouter-template-20170208.vmdk)
+vCenter云路由镜像URL: [http://cdn.zstack.io/product_downloads/vrouter/vCenter-Vrouter-template-20170208.vmdk](http://cdn.zstack.io/product_downloads/vrouter/vCenter-Vrouter-template-20170208.vmdk)
 
 ![png](../images/14-4-1-7.png "图14-4-1-7 添加云路由镜像")
 

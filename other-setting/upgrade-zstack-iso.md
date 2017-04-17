@@ -6,12 +6,12 @@
 
 `cd /opt/`
 
-`wget http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-160827.iso`
+`wget http://cdn.zstack.io/community/downloads/iso/ZStack-Community-x86_64-DVD-1.10.0.iso`
 
-`wget http://www.zstack.io/downloads/scripts/zstack-repo-upgrade.sh`
+`wget http://www.zstack.io/downloads/scripts/zstack-upgrade`
 
-`bash /opt/zstack-repo-upgrade.sh`
+`bash /opt/zstack-upgrade.`
 
-`http://download.zstack.org/ISO/ZStack-Community-x86_64-DVD-160827.iso`可换成最新版本的ZStack定制版ISO
+`http://cdn.zstack.io/community/downloads/iso/ZStack-Community-x86_64-DVD-1.10.0.iso`可换成最新版本的ZStack定制版ISO
 
 

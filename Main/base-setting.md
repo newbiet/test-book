@@ -57,7 +57,7 @@ off: 全局关闭云主机高可用设置，关闭后，云主机的高可用设
 
 云主机显卡类型（cirrus，vga，qxl）：
 管理员可以进入基础设置页面更改云主机启动时默认的显卡类型。
-更改后可检查 ps -ef | grep qemu 提示的qemu终端设置是否与对应的VM一致，查看‘-device’后的显示类型。
+更改后可检查 ps -ef | grep qemu 提示的qemu终端设置是否与对应的VM一致，查看`-device `后的显示类型。
 
 1. cirrus提供一种简单的显卡类型，但对某些操作系统，无法提供更好的显示支持；(-device cirrus-vga)
 
