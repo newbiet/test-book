@@ -9,7 +9,9 @@
 在官网上下载最新版的ISO和升级脚本至/opt目录下,例如`ZStack-Enterprise-x86_64-DVD-1.10.1.iso`和`zstack-upgrade`。
 
 > **下载地址如下**：  
-> [http://www.zstack.io/downloads/scripts/zstack-upgrade](http://www.zstack.io/downloads/scripts/zstack-upgrade)  
+> [http://www.zstack.io/downloads/scripts/zstack-upgrade](http://www.zstack.io/downloads/scripts/zstack-upgrade)
+>
+>   
 > [http://download.zstack.org/ISO/ZStack-Enterprise-x86\_64-DVD-1.10.1.iso](http://cdn.zstack.io/product_downloads/iso/ZStack-Enterprise-x86_64-DVD-1.10.1.iso)
 
 使用命令`bash zstack-upgrade ZStack-Enterprise-x86_64-DVD-1.10.1.iso`
